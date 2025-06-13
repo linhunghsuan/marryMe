@@ -1,0 +1,350 @@
+{
+    "Stage_0_8": {
+        "position": [
+            0,
+            8
+        ],
+        "type": "stage"
+    },
+    "Stage_1_8": {
+        "position": [
+            1,
+            8
+        ],
+        "type": "stage"
+    },
+    "Stage_2_8": {
+        "position": [
+            2,
+            8
+        ],
+        "type": "stage"
+    },
+    "Stage_3_8": {
+        "position": [
+            3,
+            8
+        ],
+        "type": "stage"
+    },
+    "T1": {
+        "position": [
+            0.0,
+            0.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T2": {
+        "position": [
+            1.0,
+            0.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T3": {
+        "position": [
+            2.0,
+            0.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T4": {
+        "position": [
+            3.0,
+            0.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T5": {
+        "position": [
+            4.0,
+            0.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T6": {
+        "position": [
+            0.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T7": {
+        "position": [
+            1.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T8": {
+        "position": [
+            2.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T9": {
+        "position": [
+            3.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T10": {
+        "position": [
+            4.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T11": {
+        "position": [
+            0.0,
+            2.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T12": {
+        "position": [
+            1.0,
+            2.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T13": {
+        "position": [
+            2.0,
+            2.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T14": {
+        "position": [
+            3.0,
+            2.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T15": {
+        "position": [
+            4.0,
+            2.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T16": {
+        "position": [
+            0.0,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T17": {
+        "position": [
+            1.0,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T18": {
+        "position": [
+            2.0,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T19": {
+        "position": [
+            3.0,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T20": {
+        "position": [
+            4.0,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T21": {
+        "position": [
+            0.0,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T22": {
+        "position": [
+            1.0,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T23": {
+        "position": [
+            2.0,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T24": {
+        "position": [
+            3.0,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T25": {
+        "position": [
+            4.0,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T26": {
+        "position": [
+            0.0,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T27": {
+        "position": [
+            1.0,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T28": {
+        "position": [
+            2.0,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T29": {
+        "position": [
+            3.0,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T30": {
+        "position": [
+            4.0,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T31": {
+        "position": [
+            0.0,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T32": {
+        "position": [
+            1.0,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T33": {
+        "position": [
+            2.0,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T34": {
+        "position": [
+            3.0,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T35": {
+        "position": [
+            4.0,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T36": {
+        "position": [
+            0.0,
+            7.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T37": {
+        "position": [
+            1.0,
+            7.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T38": {
+        "position": [
+            2.0,
+            7.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T39": {
+        "position": [
+            3.0,
+            7.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    },
+    "T40": {
+        "position": [
+            4.0,
+            7.0
+        ],
+        "type": "normal",
+        "displayName": ""
+    }
+}

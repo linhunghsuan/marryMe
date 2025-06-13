@@ -1,0 +1,39 @@
+# 1. 基底映像檔：選擇一個官方的 Python 版本作為基礎。
+FROM python:3.10-slim
+
+# 2. 設定工作目錄：在容器內建立一個目錄來存放您的應用程式。
+WORKDIR /app
+
+# 3. 安裝系統依賴：
+# Pillow (PIL) 處理圖片格式 (如 JPEG, PNG) 和字型。
+# --no-install-recommends 可以減少不必要的套件安裝。
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libjpeg-dev \
+    zlib1g-dev \
+    fonts-noto-cjk \
+ && rm -rf /var/lib/apt/lists/*
+
+# 4. 複製需求檔案：將您的 requirements.txt 複製到容器中。
+COPY requirements.txt requirements.txt
+
+# 5. 安裝 Python 依賴套件：
+# --no-cache-dir 可以減少映像檔大小。
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 6. 複製應用程式程式碼和相關檔案：
+# 將目前目錄 (包含 app.py, customer_list.json, table_locations.json, NotoSansTC-Medium.ttf)
+# 的所有內容複製到容器的 /app 目錄。
+COPY . .
+
+# 7. 開放埠號：
+EXPOSE 8080
+
+# 8. 設定環境變數 (可選，但建議用於敏感資訊)：
+# 若要完整測試 LINE API 互動，建議在 `docker run` 時透過 -e 來傳遞。
+# ENV LINE_CHANNEL_SECRET="YOUR_LINE_CHANNEL_SECRET"
+# ENV LINE_CHANNEL_ACCESS_TOKEN="YOUR_LINE_CHANNEL_ACCESS_TOKEN"
+# ENV GCP_PROJECT_ID="marryMe"
+# ENV GCS_BUCKET_NAME="marryme1140629"
+
+# 9. 執行應用程式的指令：
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "--workers", "1", "--threads", "2", "--timeout", "120", "app:app"]

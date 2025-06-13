@@ -1,0 +1,10 @@
+#清除登入
+gcloud auth application-default revoke
+gcloud auth revoke
+
+#登入
+gcloud auth login
+gcloud auth application-default login
+
+#驗證你現在登入的帳號和專案
+gcloud config list

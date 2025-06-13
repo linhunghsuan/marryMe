@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "marryme-461108",
+  "private_key_id": "796e200900bb86f7c751fc4f379fbda0ce9efa5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrfDX2hsUg8Sa/\ncd+O9oD8YiVWzP39zyBm5z20yly6r0dXfA4aJlA/2UyPYjt7TRXTieKFzJ1Hg/jt\n1qzVY05l2nP9nAayt1cH9UHglPt45aFDUx8XQ+COKxOCBka/XxSsL/0uzbZJC6fg\nzIwV2iASFYH0f4yR49K2jfm9ogIR3RG5KHIox8NkUqYWlqHqcmTlBrv648+SZvI9\nSiF4QkK3PMnXOLTpFC4VW2qB+DMuaOpRicKHcNBW7sF3aVGBVR3s43LufmjyoPTl\nxprOvSBUfKwZNBC/ztlAV7hBTPs+E9zHiyXRSBCA36ZBI3Px+mdiVnAfEQn+uJEc\nN3pAh2e7AgMBAAECggEAQ7J1Wy05BRguQ8Wgi7+ki/3y36FtY5UxJW6EXarFkK1B\nbLf8mTYm2A3gu3n8IWD9DNWSJ1/vdxwSWVI2SMc7W9oxkBzYSBU4tluL9izaWY/N\nadaWn4icTYOT3/C6XTIb5x3KxX9QRuXjEEuvwbCqmHkFJJB13eIifQ7vWH1sc8A8\nXP8P7fypr+Sfunlnk+tZ62EvfVhAYdScCQCMbuDy0HkXdyRQHqaFgiaP5YCOIaCh\nM1cgjwT6fnRoZaBjvmAU8RqQMtR+wriYYOr908j363YZx4952BOVzojhwRsQVAXx\n6BKyVFit69hlzweHr7rZ3hxmHpCWxtGsDMNwHQRmAQKBgQDdu3bTvz+spFTuStUh\nZF/xFZutVf2dm6VFsdM7o4O4cEyb1ZXVYE4vyLfp8iXq+5he3NyKW9o93cAlw4UY\nmGd59YeMjh1sqI4fUZyghkgwL5yNTXTMkKaRoihPRNTPRA4q/v5xZ4FSDyvMe64D\nJDTaIL2ivHKiSUhW90800LEB6wKBgQDF/MoHuQp3hCnkc1L50loxF4BSk7lp6J3q\nT/iBnxm26J8K24X8yzOCF6QdfmboE/R0ddxcDC+6z3nmVFbAcTO+E7PpaQo2KYut\n57jzfMryeZhZtplqGxOPoa5g0CwBtv3g0st0OYnta3cy1K8AfA33Zhs23/CtdCC5\nIW3sJB3tcQKBgFKXECTBGNuaflQgJZEBjUcEcG85F3WMUxxJp0+QkXCyy6ZEAUJw\nU88yqWaHnp4PRusWw0L6AamHnpmyYTIPGoPv86RkDwu5IO8DfB7CxcLFCUAMuNO1\nkYWva+pSzh3B0LEtN+NP1XiWVA8fhmp/IvyYs2oZXW2bdEmIZsVacoQvAoGAWHeQ\nPsssJiNkJLRzSzX3HyCFMmDX5L8QcPay8BiLgPOIvW1B/ac+qM6vgo5MpT7laHSR\ntn+rhCnZKlZdPThYCoL7TTymV3VQ+LAmMIZ+mMJElTHGc2cN4ow4QwJB57JA1wjZ\n6GEdhH0Ukh3+5JSKGRYC6w49mQPe61pIp8+rn8ECgYAiTSB6gfOXNGe1Tgl4G8vl\n1/FNncNACvix5+zBgzLZ8PLfC2mAxNUwfaGEACS5vEV38NVecwf5OLqSKGsPJshG\nAM/a6cR04MGC8g66Yema6rqZo7H9EKISVEpuOFHbDIZsvHGDf0y6i8nKeEUcnuI7\nPqbzMLznKaeqK6uFdrBIGw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "marrymetest@marryme-461108.iam.gserviceaccount.com",
+  "client_id": "110176126305053789548",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marrymetest%40marryme-461108.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

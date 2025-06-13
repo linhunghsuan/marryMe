@@ -1,0 +1,170 @@
+{
+    "T8": {
+        "position": [
+            0.0,
+            5.5
+        ],
+        "type": "normal",
+        "displayName": "女方親戚"
+    },
+    "T10": {
+        "position": [
+            0.0,
+            4.5
+        ],
+        "type": "normal",
+        "displayName": "女方親戚"
+    },
+    "T18": {
+        "position": [
+            0.0,
+            2.5
+        ],
+        "type": "normal",
+        "displayName": "安侯"
+    },
+    "T21": {
+        "position": [
+            0.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": "預備"
+    },
+    "T7": {
+        "position": [
+            1.0,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": "女方親戚"
+    },
+    "T9": {
+        "position": [
+            1.0,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": "女方親戚"
+    },
+    "T12": {
+        "position": [
+            1.0,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": "女方朋友"
+    },
+    "T19": {
+        "position": [
+            1.0,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": "安侯"
+    },
+    "T20": {
+        "position": [
+            1.0,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": "AUO"
+    },
+    "T1": {
+        "position": [
+            3.8,
+            6.0
+        ],
+        "type": "normal",
+        "displayName": "男方親戚"
+    },
+    "T3": {
+        "position": [
+            3.8,
+            5.0
+        ],
+        "type": "normal",
+        "displayName": "男方親戚"
+    },
+    "T11": {
+        "position": [
+            3.8,
+            4.0
+        ],
+        "type": "normal",
+        "displayName": "男方大學"
+    },
+    "T13": {
+        "position": [
+            3.8,
+            3.0
+        ],
+        "type": "normal",
+        "displayName": "西苑高中"
+    },
+    "T14": {
+        "position": [
+            3.8,
+            2.0
+        ],
+        "type": "normal",
+        "displayName": "矽品"
+    },
+    "T17": {
+        "position": [
+            3.8,
+            1.0
+        ],
+        "type": "normal",
+        "displayName": "長輩友男"
+    },
+    "T2": {
+        "position": [
+            4.8,
+            5.5
+        ],
+        "type": "normal",
+        "displayName": "男方親戚"
+    },
+    "T4": {
+        "position": [
+            4.8,
+            4.5
+        ],
+        "type": "normal",
+        "displayName": "男方親戚"
+    },
+    "T5": {
+        "position": [
+            4.8,
+            3.5
+        ],
+        "type": "normal",
+        "displayName": "男方親戚"
+    },
+    "T6": {
+        "position": [
+            4.8,
+            2.5
+        ],
+        "type": "normal",
+        "displayName": "男方親戚"
+    },
+    "T15": {
+        "position": [
+            4.8,
+            1.5
+        ],
+        "type": "normal",
+        "displayName": "矽品"
+    },
+    "T16": {
+        "position": [
+            4.8,
+            0.5
+        ],
+        "type": "normal",
+        "displayName": "矽品"
+    }
+}
